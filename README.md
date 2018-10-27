@@ -9,8 +9,8 @@
 
 №|Описание|Ссылка на работу
 ---|:---:|---:
-1| | 
-2| | 
+1|HW1 | https://github.com/polilin/python-dh-hw/blob/master/HW1.ipynb
+2|HW2 | https://github.com/polilin/python-dh-hw/blob/master/HW2.ipynb
 3| | 
 4| | 
 5| | 
