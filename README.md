@@ -11,6 +11,6 @@
 ---|:---:|---:
 1|HW1 | https://github.com/polilin/python-dh-hw/blob/master/HW1.ipynb
 2|HW2 | https://github.com/polilin/python-dh-hw/blob/master/HW2.ipynb
-3| | 
+3|HW3 | https://github.com/polilin/python-dh-hw/blob/master/HW3.ipynb
 4| | 
 5| | 
